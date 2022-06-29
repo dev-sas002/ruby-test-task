@@ -1,0 +1,4 @@
+vendor
+.idea
+project_venv
+.DS_Store
